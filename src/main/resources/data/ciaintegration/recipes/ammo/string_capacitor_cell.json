@@ -1,0 +1,18 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "tacz:ammo",
+      "count": 5,
+      "nbt": "{AmmoId:\"immersive_armorer:stream_capacitor\"}"
+    }
+  ]
+}

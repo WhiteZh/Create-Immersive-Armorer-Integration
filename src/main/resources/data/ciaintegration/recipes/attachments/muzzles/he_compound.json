@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "III",
+    " T ",
+    "III"
+  ],
+  "result": {
+    "item": "tacz:attachment",
+    "nbt": "{AttachmentId:\"immersive_armorer:muzzle_refit_he_compound\"}"
+  }
+}

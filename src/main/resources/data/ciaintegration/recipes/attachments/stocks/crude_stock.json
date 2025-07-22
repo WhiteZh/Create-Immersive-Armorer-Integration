@@ -1,0 +1,16 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "S": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    "SSSS",
+    "  SS"
+  ],
+  "result": {
+    "item": "tacz:attachment",
+    "nbt": "{AttachmentId:\"immersive_armorer:stock_crude\"}"
+  }
+}

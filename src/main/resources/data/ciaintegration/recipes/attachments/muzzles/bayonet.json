@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "S": {
+      "item": "minecraft:iron_sword"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "ISI"
+  ],
+  "result": {
+    "item": "tacz:attachment",
+    "nbt": "{AttachmentId:\"immersive_armorer:bayonet_revolver\"}"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "key": {
+    "V": {
+      "item": "immersiveengineering:electron_tube"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "VVV",
+    "VDV",
+    "VVV"
+  ],
+  "result": {
+    "item": "tacz:attachment",
+    "nbt": "{AttachmentId:\"immersive_armorer:extended_capacitor_2\"}"
+  }
+}
